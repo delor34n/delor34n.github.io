@@ -121,6 +121,10 @@ hr {
   /* center align it with the container */
 }
 
+footer {
+  text-align: center;
+}
+
 /* Content */
 /* line 110, ../_sass/_base.scss */
 .content {
